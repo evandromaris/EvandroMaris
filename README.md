@@ -1,11 +1,13 @@
 
 ## ✌️Hallo!!! I'm Evandro Maris!
 
-<div align="center">
-  <a href="https://evandromaris.github.io/Portifolio"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=evandromaris&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandromaris&layout=compact&langs_count=7&theme=radical"/>
+<div style="display: inline_block">
+  <a href="https://github.com/evandromaris">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=evandromaris&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandromaris&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-
+</br>
 <div style="display: inline_block">
 <br>
   <img alt="HTML" title="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>&nbsp;
