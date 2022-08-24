@@ -2,7 +2,7 @@
 ## ✌️Hello!!! I'm Evandro Maris!
 
 <a href="https://github.com/evandromaris">
-<img height="180em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=evandromaris&show_icons=true&include_all_commits=true&theme=radical" alt="evandromaris's github stats" />
+<img height="180em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api?username=evandromaris&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="evandromaris's github stats" />
 </a>
 <a href="https://github.com/evandromaris">
 <img height="180em" width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandromaris&layout=compact&theme=radical" /></a>
